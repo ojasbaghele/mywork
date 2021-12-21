@@ -1,0 +1,105 @@
+body { 
+        margin: 0px;  /* css comment*/
+        background-color: #f5eedc;
+        text-align: center;
+        font-family: 'Indie Flower', cursive;
+    }
+
+.me {
+        margin: 0,0,0,0;
+        background-color: rgb(197, 155, 76);
+        width: 100%;
+        height:650px ;}
+
+hr {
+        background-color: #f5eedc;
+        border-style:dotted none none;
+        height: 0px;
+        width: 7%;
+        border-width: 5px;
+        border-color: #ec2320;
+    }
+
+h1 {
+        margin-top: 0px;
+        color: #8f203f;
+        font-family: 'Twinkle Star', cursive;
+        font-size: 3rem;
+}
+
+h3 {
+        color: #8d4d19;
+        font-family: 'Pushster', cursive;
+        font-weight:bolder;
+}
+
+h4{
+        color: rgb(192, 131, 39);
+}
+
+h5{
+        color: rgba(37, 20, 20, 0.527);
+}
+#profile {
+    border-radius: 100%;}
+    
+h1:hover {
+    background-color: rgb(206, 176, 122);}
+  
+.object1 {
+    margin-left: 10%;
+    padding-top: 200px;
+    width: 20%;}
+    
+
+.avater{
+    top: 80px;
+    position: absolute;
+    right: 60px;}
+
+.tornado {
+top: 85px;
+position: absolute;
+left: 50px;}
+
+.box1 {
+    margin-top: 12%;
+    position: absolute;
+    margin-left: 37%;}
+
+    .btn {
+        background: #2f7ce0;
+        background-image: -webkit-linear-gradient(top, #2f7ce0, #45a3de);
+        background-image: -moz-linear-gradient(top, #2f7ce0, #45a3de);
+        background-image: -ms-linear-gradient(top, #2f7ce0, #45a3de);
+        background-image: -o-linear-gradient(top, #2f7ce0, #45a3de);
+        background-image: linear-gradient(to bottom, #2f7ce0, #45a3de);
+        -webkit-border-radius: 28;
+        -moz-border-radius: 28;
+        border-radius: 28px;
+        font-family: Arial;
+        color: #e3dbc6;
+        font-size: 20px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+      }
+      
+      .btn:hover {
+        background: #3cb0fd;
+        background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+        background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+        text-decoration: none;
+      }
+
+      a{
+          color: rgb(235, 91, 39);
+          font-family: 'Twinkle Star', cursive;
+          text-decoration: none;
+      }
+      a:hover{
+          color: rgb(53, 97, 219);
+      }
+
